@@ -13,6 +13,8 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 * [Ship of Harkinian: Ocarina of Time Wii U Port](https://gbatemp.net/threads/ship-of-harkinian-ocarina-of-time-wii-u-port.612074/)
 * [Plumbers Don't Wear Ties](https://github.com/MaikelChan/PlumbersDontWearTies-SDL)
 * [Cave Story Enhanced](https://github.com/EwanGreen4/CSE2EX)
+* [SudokuL](https://github.com/Mips96/SuDokuL)
+* [Minesweeper Wii U](https://github.com/rw-r-r-0644/Minesweeper_WiiU)
 
 ## Juegos en Formato Canal Incluidos en el Paquete
 
