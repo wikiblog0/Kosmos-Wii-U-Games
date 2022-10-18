@@ -15,10 +15,11 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 * [Cave Story Enhanced](https://github.com/EwanGreen4/CSE2EX)
 * [SudokuL](https://github.com/Mips96/SuDokuL)
 * [Minesweeper Wii U](https://github.com/rw-r-r-0644/Minesweeper_WiiU)
+* [Space Cadet 3D Pinball Wii U](https://github.com/IntriguingTiles/SpaceCadetPinball-WiiU)
 
 ## Juegos en Formato Canal Incluidos en el Paquete
 
-* [Cuphead Wii U port](http://www.mediafire.com/file/38a98yuasr9qdbe/Cuphead.zip/file)
+* [Cuphead Wii U port](https://drive.google.com/file/d/1_9htpvd7siKqJaCMBb2PhdtiaojisjrT/view?usp=sharing)
 * [Celeste Classic](https://github.com/JeffRuLz/Celeste-Classic-GBA/releases)
 * [Dinoboy](https://github.com/rnegron/dino-gb/releases)
 * [Portal Demake Gameboy Port](https://goofyblocks.itch.io/portal-gb-demake)
