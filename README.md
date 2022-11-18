@@ -16,6 +16,8 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 * [SudokuL](https://github.com/Mips96/SuDokuL)
 * [Minesweeper Wii U](https://github.com/rw-r-r-0644/Minesweeper_WiiU)
 * [Space Cadet 3D Pinball Wii U](https://github.com/IntriguingTiles/SpaceCadetPinball-WiiU)
+* [SplatFestDL](https://github.com/Sheldon10095/SFDL)
+* [Trogdor Reburninated](https://github.com/Mips96/Trogdor-Reburninated/releases)
 
 ## Juegos en Formato Canal Incluidos en el Paquete
 
