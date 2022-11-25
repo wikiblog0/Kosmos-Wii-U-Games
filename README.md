@@ -12,10 +12,10 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 * [Sonic Mania Plus](https://github.com/Clownacy/Sonic-Mania-Decompilation/releases)
 * [Ship of Harkinian: Ocarina of Time Wii U Port](https://gbatemp.net/threads/ship-of-harkinian-ocarina-of-time-wii-u-port.612074/)
 * [Plumbers Don't Wear Ties](https://github.com/MaikelChan/PlumbersDontWearTies-SDL)
-* [Cave Story Enhanced](https://github.com/EwanGreen4/CSE2EX)
+* [Cave Story Enhanced](https://github.com/wikiblog0/CSE2EX)
 * [SudokuL](https://github.com/Mips96/SuDokuL)
 * [Minesweeper Wii U](https://github.com/rw-r-r-0644/Minesweeper_WiiU)
-* [Space Cadet 3D Pinball Wii U](https://github.com/IntriguingTiles/SpaceCadetPinball-WiiU)
+* [Space Cadet 3D Pinball Wii U](https://www.mediafire.com/file/6rujs55vvk9a5v8/SpaceCadetPinball.zip/file)
 * [SplatFestDL](https://github.com/Sheldon10095/SFDL)
 * [Trogdor Reburninated](https://github.com/Mips96/Trogdor-Reburninated/releases)
 
