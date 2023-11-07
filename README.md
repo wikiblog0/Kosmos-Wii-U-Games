@@ -19,12 +19,27 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 * [SplatFestDL](https://github.com/Sheldon10095/SFDL)
 * [Trogdor Reburninated](https://github.com/Mips96/Trogdor-Reburninated/releases)
 
+## Juegos Homebrew de Wii que son compatibles con la Gamepad
+
+* [Hydra Castle Laberynth](https://github.com/JeffRuLz/OpenHCL/releases)
+* [Newo Zero](https://wiidatabase.de/downloads/spiele/newo-zero/)
+
 ## Juegos en Formato Canal Incluidos en el Paquete
 
 * [Cuphead Wii U port](https://drive.google.com/file/d/1_9htpvd7siKqJaCMBb2PhdtiaojisjrT/view?usp=sharing)
 * [Celeste Classic](https://github.com/JeffRuLz/Celeste-Classic-GBA/releases)
 * [Dinoboy](https://github.com/rnegron/dino-gb/releases)
 * [Portal Demake Gameboy Port](https://goofyblocks.itch.io/portal-gb-demake)
+* [Grimace Birthday](https://drive.google.com/file/d/1f_GndVVKGKRkI-iIa0SiC3vX0hHHmEal/view?usp=sharing)
+* [Kirby Dream Land 2 DX](https://drive.google.com/file/d/1WSH8uEs8hmAt0TLlx4NC2KbZ5r-F5JZ0/view?usp=sharing)
+* [Flappy Bird](https://drive.google.com/file/d/1enk3XHAZmUkHpAOdbGayAiy7pYnF4Biz/view?usp=sharing)
+* [Silvers Falls Galaxy Bound Curse](https://drive.google.com/file/d/1uorLGwRYZ1wZ-_VbhMamt5aNbWmg81D6/view?usp=sharing)
+* [Zelda 3 Philips CDi Demake](https://drive.google.com/file/d/1bW725eikRu81_tE2EOGLTcCf4pXTZEy-/view?usp=sharing)
+
+## Canales Forwarder de Juegos Homebrew de Wii
+
+* [Hydra Castle Laberynth](https://drive.google.com/file/d/1YnW4D2o1LYwpjXWBoWQX83l99pK7T4_W/view?usp=sharing)
+* [Newo Zero](https://drive.google.com/file/d/1NGub4qa3uJA24AQSRTI0qTxLagcpxxTR/view?usp=sharing)
 
 ## Observaciones
 
@@ -34,7 +49,9 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 
 * Para aquellas personas que tengan problemas para poner el paquete en la tarjeta de memoria o quieran hacer sugerencias de juegos que quieran que pongan en el paquete lo pueden hacer en la seccion "issues".
 
-* Una vez que hayan pasado los archivos del paquete a la memoria sd pueden instalar los canales de los juegos con la aplicacion Wup Installer GX2 que se lanza desde el homebrew launcher y pueden instalarlo tanto en la Nand como en el disco duro/USB.
+* Una vez que hayan pasado los archivos del paquete a la memoria sd pueden instalar los canales de los juegos con la aplicacion Wup Installer GX2 (Tiramisu) o NUSspli Lite (Aroma) y pueden instalarlo tanto en la Nand como en el disco duro/USB.
+
+* Para poder usar la gamepad de Wii U como control en los juegos homebrew de Wii, tienen que instalar los canales forwarder en la Nand de la consola y al momento de ejecutarlo, seleccionar si, si nos pregunta si queremos usar la gamepad como control.
 
 * Si desean visitar los repositorios oficiales de los juegos que estan incluidos en el paquete, pueden darle click al nombre de los juegos que se encuntran en la seccion "juegos incluidos en el paquete" que estan de color azul, asi podran conocer mas informacion acerca del juego y de las demas versiones que tiene. 
 
