@@ -10,8 +10,7 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 * [Sonic 1 & 2](https://gitlab.com/QuarkTheAwesome/sonic2013-wiiu/-/jobs)
 * [Sonic CD](https://github.com/Clownacy/Sonic-CD-11-Decompilation/releases)
 * [Sonic Mania Plus](https://github.com/Clownacy/Sonic-Mania-Decompilation/releases)
-* [Ship of Harkinian: Ocarina of Time Wii U Port](https://gbatemp.net/threads/ship-of-harkinian-ocarina-of-time-wii-u-port.612074/)
-* [Plumbers Don't Wear Ties](https://github.com/MaikelChan/PlumbersDontWearTies-SDL)
+* [Ship of Harkinian: Ocarina of Time Wii U Port](https://github.com/HarbourMasters/Shipwright/releases)
 * [Cave Story Enhanced](https://github.com/wikiblog0/CSE2EX)
 * [SudokuL](https://github.com/Mips96/SuDokuL)
 * [Minesweeper Wii U](https://github.com/rw-r-r-0644/Minesweeper_WiiU)
@@ -26,7 +25,7 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 
 ## Juegos en Formato Canal Incluidos en el Paquete
 
-* [Cuphead Wii U port](https://drive.google.com/file/d/1_9htpvd7siKqJaCMBb2PhdtiaojisjrT/view?usp=sharing)
+* [Five Nights at Freddy Wii U Port](https://source-macchiato.itch.io/fnaf-wiiu-edition)
 * [Celeste Classic](https://github.com/JeffRuLz/Celeste-Classic-GBA/releases)
 * [Dinoboy](https://github.com/rnegron/dino-gb/releases)
 * [Portal Demake Gameboy Port](https://goofyblocks.itch.io/portal-gb-demake)
@@ -35,15 +34,23 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 * [Flappy Bird](https://drive.google.com/file/d/1enk3XHAZmUkHpAOdbGayAiy7pYnF4Biz/view?usp=sharing)
 * [Silvers Falls Galaxy Bound Curse](https://drive.google.com/file/d/1uorLGwRYZ1wZ-_VbhMamt5aNbWmg81D6/view?usp=sharing)
 * [Zelda 3 Philips CDi Demake](https://drive.google.com/file/d/1bW725eikRu81_tE2EOGLTcCf4pXTZEy-/view?usp=sharing)
+* [Portal Wii U Port]()
+* [Baldis Basics Wii U Port](https://spanishfreddy.itch.io/bbieal-wiiu)
+* [Bendy and The Ink Machine Wii U Port](https://spanishfreddy.itch.io/batim-ch1-wiiu)
 
 ## Canales Forwarder de Juegos Homebrew de Wii
 
 * [Hydra Castle Laberynth](https://drive.google.com/file/d/1YnW4D2o1LYwpjXWBoWQX83l99pK7T4_W/view?usp=sharing)
 * [Newo Zero](https://drive.google.com/file/d/1NGub4qa3uJA24AQSRTI0qTxLagcpxxTR/view?usp=sharing)
 
+## Juegos que Fueron Quitados del Paquete
+
+* [Cuphead Wii U port](https://drive.google.com/file/d/1_9htpvd7siKqJaCMBb2PhdtiaojisjrT/view?usp=sharing)
+* [Plumbers Don't Wear Ties](https://github.com/MaikelChan/PlumbersDontWearTies-SDL)
+
 ## Observaciones
 
-* Ship of Harkinian no pasara actualizandose muy seguido debido que todos los dias hacen nuevas versiones nightly, por lo que solo se actualizara si hay cambios significativos.
+* Ship of Harkinian se pasa actualizando de manera constante, por lo que no se pasara actualizando seguido, al menos que hayan novedades importantes.
 
 * El port de Cuphead quedo en estado alfa y esta abandonado, por lo que solo es jugable el tutorial. Aun asi, es recomendable probarlo ya que lo poco que se hizo funciona muy bien y queda demostrado que el juego hubiera quedado excelente para Wii U. Si alguien esta interesado en retomar el proyecto de Cuphead u otro juego, pueden visitar mi repositorio de [Kosmos Wii U](https://github.com/wikiblog0/Kosmos-Wii-U) , donde dejo todas las herramientas de programacion necesarias para crear juegos y aplicaciones homebrew para Wii U.
 
@@ -53,7 +60,9 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 
 * Para poder usar la gamepad de Wii U como control en los juegos homebrew de Wii, tienen que instalar los canales forwarder en la Nand de la consola y al momento de ejecutarlo, seleccionar si, si nos pregunta si queremos usar la gamepad como control.
 
-* Si desean visitar los repositorios oficiales de los juegos que estan incluidos en el paquete, pueden darle click al nombre de los juegos que se encuntran en la seccion "juegos incluidos en el paquete" que estan de color azul, asi podran conocer mas informacion acerca del juego y de las demas versiones que tiene. 
+* Si desean visitar los repositorios oficiales de los juegos que estan incluidos en el paquete, pueden darle click al nombre de los juegos que se encuntran en la seccion "juegos incluidos en el paquete" que estan de color azul, asi podran conocer mas informacion acerca del juego y de las demas versiones que tiene.
+
+* Se quitaron los juegos de Cuphead y Plumbers Don't Wear Ties del paquete de Kosmos Games debido a que se superaba el limite de 2 GB que tiene Github con la subida dearchivo, debido a esta situacion, puede que el paquete Kosmos de Github solo se suba para actualizar los ports o juegos homebrew que ya estan en el paquete. Mientras que una version mas completa y robusta se suba por otro medio, proximamente se estara informando sobre esto.
 
 ## Para los Nuevos Usuarios
 * Para los nuevos usuarios de una Wii U que quieran liberar/modificar su Wii U, recomiendo visitar la "Guia de Piloncillo" en la cual estan las instrucciones a detalle de como liberar su Wii U a traves de Tiramisu. Link: https://piloncillo.github.io/
