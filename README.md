@@ -17,15 +17,17 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 * [Space Cadet 3D Pinball Wii U](https://www.mediafire.com/file/6rujs55vvk9a5v8/SpaceCadetPinball.zip/file)
 * [SplatFestDL](https://github.com/Sheldon10095/SFDL)
 * [Trogdor Reburninated](https://github.com/Mips96/Trogdor-Reburninated/releases)
+* [2ship2harkinian: Majora's Mask Wii U Port](https://github.com/HarbourMasters/2ship2harkinian-WiiU/actions/runs/9589213048)
 
 ## Juegos Homebrew de Wii que son compatibles con la Gamepad
 
 * [Hydra Castle Laberynth](https://github.com/JeffRuLz/OpenHCL/releases)
 * [Newo Zero](https://wiidatabase.de/downloads/spiele/newo-zero/)
+* [Heart of Darkness](https://github.com/wikiblog0/HeartOfDarkness-SDL/releases)
 
 ## Juegos en Formato Canal Incluidos en el Paquete
 
-* [Five Nights at Freddy Wii U Port](https://source-macchiato.itch.io/fnaf-wiiu-edition)
+* [Five Nights at Freddy Wii U](https://source-macchiato.itch.io/fnaf-wiiu-edition)
 * [Celeste Classic](https://github.com/JeffRuLz/Celeste-Classic-GBA/releases)
 * [Dinoboy](https://github.com/rnegron/dino-gb/releases)
 * [Portal Demake Gameboy Port](https://goofyblocks.itch.io/portal-gb-demake)
@@ -34,19 +36,20 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 * [Flappy Bird](https://drive.google.com/file/d/1enk3XHAZmUkHpAOdbGayAiy7pYnF4Biz/view?usp=sharing)
 * [Silvers Falls Galaxy Bound Curse](https://drive.google.com/file/d/1uorLGwRYZ1wZ-_VbhMamt5aNbWmg81D6/view?usp=sharing)
 * [Zelda 3 Philips CDi Demake](https://drive.google.com/file/d/1bW725eikRu81_tE2EOGLTcCf4pXTZEy-/view?usp=sharing)
-* [Portal Wii U Port]()
-* [Baldis Basics Wii U Port](https://spanishfreddy.itch.io/bbieal-wiiu)
-* [Bendy and The Ink Machine Wii U Port](https://spanishfreddy.itch.io/batim-ch1-wiiu)
+* [Bendy and The Ink Machine Wii U](https://spanishfreddy.itch.io/batim-ch1-wiiu)
 
 ## Canales Forwarder de Juegos Homebrew de Wii
 
 * [Hydra Castle Laberynth](https://drive.google.com/file/d/1YnW4D2o1LYwpjXWBoWQX83l99pK7T4_W/view?usp=sharing)
 * [Newo Zero](https://drive.google.com/file/d/1NGub4qa3uJA24AQSRTI0qTxLagcpxxTR/view?usp=sharing)
+* [Heart of Darkness](https://github.com/wikiblog0/HeartOfDarkness-SDL/releases)
 
 ## Juegos que Fueron Quitados del Paquete
 
 * [Cuphead Wii U port](https://drive.google.com/file/d/1_9htpvd7siKqJaCMBb2PhdtiaojisjrT/view?usp=sharing)
 * [Plumbers Don't Wear Ties](https://github.com/MaikelChan/PlumbersDontWearTies-SDL)
+* [Portal Wii U](https://source-macchiato.itch.io/portal-wiiu-edition)
+* [Baldis Basics Wii U](https://spanishfreddy.itch.io/bbieal-wiiu)
 
 ## Observaciones
 
@@ -62,7 +65,7 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 
 * Si desean visitar los repositorios oficiales de los juegos que estan incluidos en el paquete, pueden darle click al nombre de los juegos que se encuntran en la seccion "juegos incluidos en el paquete" que estan de color azul, asi podran conocer mas informacion acerca del juego y de las demas versiones que tiene.
 
-* Se quitaron los juegos de Cuphead y Plumbers Don't Wear Ties del paquete de Kosmos Games debido a que se superaba el limite de 2 GB que tiene Github con la subida dearchivo, debido a esta situacion, puede que el paquete Kosmos de Github solo se suba para actualizar los ports o juegos homebrew que ya estan en el paquete. Mientras que una version mas completa y robusta se suba por otro medio, proximamente se estara informando sobre esto.
+* Se quitaron los juegos de Cuphead, Plumbers Don't Wear Ties, Portal Wii U y Baldis Basics WiiU del paquete de Kosmos Games debido a que se superaba el limite de 2 GB que tiene Github con la subida de archivo, debido a esta situacion, el paquete Kosmos Games solo se actualice los ports o juegos homebrew que ya estan en el paquete. Puede que el paquete sufra de cambios si aparece un port o juego homebrew que merezca estar en el paquete.
 
 ## Para los Nuevos Usuarios
 * Para los nuevos usuarios de una Wii U que quieran liberar/modificar su Wii U, recomiendo visitar la "Guia de Piloncillo" en la cual estan las instrucciones a detalle de como liberar su Wii U a traves de Tiramisu. Link: https://piloncillo.github.io/
