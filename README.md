@@ -3,7 +3,7 @@ Paquete todo en uno de los ports de juegos que se han hecho para Wii U o que son
 
 ## Como Usarlo
 
-Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Una vez descargado, descomprima el paquete .zip, aparecera una carpeta llamada Kosmos Games, el contenido dentro de la carpeta Kosmos Games paselos a la raiz de la tarjeta sd que esta utilizando para la Wii U.
+Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Una vez descargado, descomprima el paquete .zip, apareceran varias carpetas, esas carpetas pasenlos a la raiz de la tarjeta sd que esta utilizando para la Wii U.
 
 ## Juegos Incluidos en el Paquete
 
