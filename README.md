@@ -17,7 +17,8 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 * [Space Cadet 3D Pinball Wii U](https://www.mediafire.com/file/6rujs55vvk9a5v8/SpaceCadetPinball.zip/file)
 * [SplatFestDL](https://github.com/Sheldon10095/SFDL)
 * [Trogdor Reburninated](https://github.com/Mips96/Trogdor-Reburninated/releases)
-* [2ship2harkinian: Majora's Mask Wii U Port](https://github.com/HarbourMasters/2ship2harkinian-WiiU/actions/runs/9589213048)
+* [2ship2harkinian: Majora's Mask Wii U Port](https://drive.google.com/file/d/14d0QM_gFHBN6kU4B8FyF-8WeAZ-ISzFB/view?usp=drive_link)
+* [Super Mario Bros X](https://github.com/TheXTech/TheXTech/releases)
 
 ## Juegos Homebrew de Wii que son compatibles con la Gamepad
 
