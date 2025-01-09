@@ -19,6 +19,7 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 * [Trogdor Reburninated](https://github.com/Mips96/Trogdor-Reburninated/releases)
 * [2ship2harkinian: Majora's Mask Wii U Port](https://drive.google.com/file/d/14d0QM_gFHBN6kU4B8FyF-8WeAZ-ISzFB/view?usp=drive_link)
 * [Super Mario Bros X](https://github.com/TheXTech/TheXTech/releases)
+* [Blockamok Remix](https://github.com/Mode8fx/blockamok/releases)
 
 ## Juegos Homebrew de Wii que son compatibles con la Gamepad
 
